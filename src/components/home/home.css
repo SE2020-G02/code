@@ -1,0 +1,232 @@
+#deer_img {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 323px;
+  height: 456px;
+}
+
+#deer {
+  border-width: 0px;
+  position: absolute;
+  left: 90px;
+  top: 97px;
+  width: 323px;
+  height: 456px;
+  display: flex;
+}
+
+#deer .text {
+  position: absolute;
+  align-self: center;
+  padding: 2px 2px 2px 2px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#deer_text {
+  border-width: 0px;
+  word-wrap: break-word;
+  text-transform: none;
+  visibility: hidden;
+}
+
+#blank_div {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1519px;
+  height: 500px;
+  background: inherit;
+  background-color: rgba(36, 41, 46, 1);
+  border: none;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#blank {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 65px;
+  width: 1519px;
+  height: 500px;
+  display: flex;
+  opacity: 0.86;
+}
+
+#blank .text {
+  position: absolute;
+  align-self: center;
+  padding: 2px 2px 2px 2px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#blank_text {
+  border-width: 0px;
+  word-wrap: break-word;
+  text-transform: none;
+  visibility: hidden;
+}
+
+#words {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+}
+
+#oursudoku_div {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 318px;
+  height: 83px;
+  background: inherit;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-family: 'Ink Free Bold', 'Ink Free Normal', 'Ink Free', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 67px;
+  color: #FFFFFF;
+}
+
+#oursudoku {
+  border-width: 0px;
+  position: absolute;
+  left: 816px;
+  top: 144px;
+  width: 318px;
+  height: 83px;
+  display: flex;
+  font-family: 'Ink Free Bold', 'Ink Free Normal', 'Ink Free', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 67px;
+  color: #FFFFFF;
+}
+
+#oursudoku .text {
+  position: absolute;
+  align-self: flex-start;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#oursudoku_text {
+  border-width: 0px;
+  white-space: nowrap;
+  text-transform: none;
+}
+
+#subheading_div {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 498px;
+  height: 35px;
+  background: inherit;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-family: '微软雅黑 Light', '微软雅黑', sans-serif;
+  font-weight: 250;
+  font-style: normal;
+  font-size: 27px;
+  color: #FFFFFF;
+}
+
+#subheading {
+  border-width: 0px;
+  position: absolute;
+  left: 907px;
+  top: 241px;
+  width: 498px;
+  height: 35px;
+  display: flex;
+  font-family: '微软雅黑 Light', '微软雅黑', sans-serif;
+  font-weight: 250;
+  font-style: normal;
+  font-size: 27px;
+  color: #FFFFFF;
+}
+
+#subheading .text {
+  position: absolute;
+  align-self: flex-start;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#subheading_text {
+  border-width: 0px;
+  white-space: nowrap;
+  text-transform: none;
+}
+
+#describe_div {
+  border-width: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 890px;
+  height: 115px;
+  background: inherit;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#describe {
+  border-width: 0px;
+  position: absolute;
+  left: 530px;
+  top: 310px;
+  width: 890px;
+  height: 115px;
+  display: flex;
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#describe .text {
+  position: absolute;
+  align-self: flex-start;
+  padding: 0px 0px 0px 0px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+#describe_text {
+  border-width: 0px;
+  word-wrap: break-word;
+  text-transform: none;
+}
